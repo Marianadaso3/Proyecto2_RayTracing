@@ -18,7 +18,7 @@ marble = Material(spec = 64 ,texture = Texture("marble.bmp"), matType= REFLECTIV
 glass = Material(diffuse = (0.9, 0.9, 0.9), spec = 64, ior = 1.5, matType = TRANSPARENT)
 
 rtx = Raytracer(width, height)
-rtx.envMap = Texture("fondo.bmp")
+rtx.envMap = Texture("F1.bmp")
 
 #Lights
 rtx.lights.append( AmbientLight(intensity = 0.1 ))
