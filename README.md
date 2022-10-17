@@ -1,1 +1,2 @@
-# Proyecto2_RayTracing
+# Raytracer_2022
+ 
